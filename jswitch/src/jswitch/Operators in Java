@@ -1,3 +1,8 @@
 Arthimetic Operator -> +,-,*,/,%
 Relational Operator -> >,<,==,!=,>=,<=
 Logical Operator -> &,!,|,&&,||
+
+---> Truth table
+A truth table is a table used in logic, mathematics, and computer science to systematically list all possible combinations of input values for 
+a logical expression, and show the corresponding output for each combination.
+

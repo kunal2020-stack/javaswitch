@@ -6,6 +6,26 @@ public class Jtbv4 {
 		int num2 = 3;
 		int result = num1+num2;
 		System.out.println(result);
+		
+//		Jtbv5 -> variable
+//		int num1 = 9;
+		byte by = 127;
+		short sh = 558;
+		long l = 5854l;
+		
+		float f = 5.8f;
+		double d = 5.8;
+		
+		char c = '6';
+		boolean b = true;
+		
+		System.out.println(by);
+		System.out.println(sh);
+		System.out.println(l);
+		System.out.println(f);
+		System.out.println(d);
+		System.out.println(c);
+		System.out.println(b);
 	}
 
 }

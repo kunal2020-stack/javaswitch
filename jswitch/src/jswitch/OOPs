@@ -1,0 +1,6 @@
+OOPS -> Object Oriented Programing
+
+Everything is object and each object has -> Properties and behaviour
+Example ->Dog has property as it has height,nose,tongue and it has behaviour as it barks on strnager
+
+Object is created with the help of class and created by jvm when we compile the code and code get converted into the byte code

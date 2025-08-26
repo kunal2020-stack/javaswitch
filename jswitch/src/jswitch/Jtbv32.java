@@ -38,8 +38,16 @@ public class Jtbv32 {
 		stu[1] = st2;
 		stu[2] = st3;
 		
+//		normal for loop to get the value
 		for (int i=0;i<stu.length;i++) {
 			System.out.println(stu[i].Name+" "+stu[i].rollnumber+" "+stu[i].marks);
+		}
+		
+		System.out.println("----- SEPARATOR TEXT -----");
+		
+//		for each loop to get the value
+		for(student s: stu) {
+			System.out.println(s.Name+" "+s.rollnumber+" "+s.marks);
 		}
 
 	}

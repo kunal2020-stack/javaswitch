@@ -25,7 +25,7 @@ public class Jtbv29 {
 		
 		System.out.println("-----SEPARATOR TEXT-----");
 		
-//		printing the value using for-each loop
+//		printing the value using for-each loop  -> for each loop cannot be used to assign value t the array as access to index is not provider it can just iterate through the elements only.
 		for(int n[]:nums) {
 			for(int m:n) {
 				System.out.print(m+" ");

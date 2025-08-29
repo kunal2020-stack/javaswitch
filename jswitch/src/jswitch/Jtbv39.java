@@ -30,7 +30,7 @@ public class Jtbv39 {
 //		the output of the code will be "Inside the static block" X 1
 //		"Inside the constructor" X 2;
 		
-		Class.forName("Mobiless");//this will load the clasee using sytem class loader
+		Class.forName("jswitch.Mobiless");//this will load the clasee using sytem class loader
 		
 //		If above code is commented then there will no execution of the class so to acheive this wihtout creating the object by using class 
 //		class

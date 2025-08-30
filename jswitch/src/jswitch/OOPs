@@ -1,13 +1,27 @@
-OOPS -> Object Oriented Programing
+OOPS -> Object Oriented Programming
 
-Everything is object and each object has -> Properties and behaviour
-Example ->Dog has property as it has height,nose,tongue and it has behaviour as it barks on strnager
+Everything is object and each object has -> Properties and behavior
+Example ->Dog has property as it has height,nose,tongue and it has behavior as it barks on stranger
 
-Object is created with the help of class and created by jvm when we compile the code and code get converted into the byte code
+Object is created with the help of class and created by JVM when we compile the code and code get converted into the byte code
 
 ------Method overloading------
 Method overloading depends on the parameter, its order and number of parameter.
-It doesnot depends on the return type of the method.
-It is also an example of the run time polymorphism as compiler at the run time determines which method to call based on the parameter
+It does not depends on the return type of the method.
+It is also an example of the run time Polymorphism as compiler at the run time determines which method to call based on the parameter
 
 
+Encapsulation: Only exposing necessary and required detail to the user not entire cod. (access specifier)
+	Encapsulation in Java is the mechanism of wrapping data (variables) and code (methods) together within a single unit—typically a 
+	class—while restricting direct access to that data from outside the class.
+
+Core Concept
+Encapsulation binds data members and methods into one unit and hides the internal state of an object from external access. 
+This is done by declaring variables as private and providing public getter and setter methods for controlled access, creating a 
+protective shield around the object's internal state
+
+Inheritance: 
+		Single inheritance
+		Multilevel inheritance
+		Multiple inheritance  -> this is not possible in java as it will leads to ambiguity(confusion) when calling the method which is
+							defined in all or more than one parent class.(This can be achieve using interfaces)

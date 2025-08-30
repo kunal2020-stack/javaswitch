@@ -1,0 +1,5 @@
+Naming convention in java 
+
+Class and interface -> Calc,Runnable,MyData
+Variable and method -> marks, show(), showMyMarks()
+constants -> PIE, BRAND

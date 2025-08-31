@@ -10,7 +10,7 @@ public class Calc extends BasicCalculator {
 	// 	int div = c1.div(1, 2);
 		
 		System.out.println("Addtion: "+add);
-		System.out.println("Subtraction: "+sub);
+		System.out.println("Subtraction: "+sub); //there
 	}
 
 }

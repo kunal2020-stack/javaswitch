@@ -1,10 +1,10 @@
-package jswitch;
+package jswitchsrc;
 
-public class Helloworld3 {
+public class helloworld2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hi there 3.0");
+		System.out.println("Hi there 2.0");
 
 	}
 

@@ -1,4 +1,4 @@
-package jswitch;
+package jswitchsrc;
 //there is one special space in jvm called class loader which load the class every time the instance of the class is created.
 
 class Mobiless{

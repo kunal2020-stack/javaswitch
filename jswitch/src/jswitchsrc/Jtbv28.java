@@ -1,4 +1,4 @@
-package jswitch;
+package jswitchsrc;
 
 public class Jtbv28 {
 	public static void main (String []args) {

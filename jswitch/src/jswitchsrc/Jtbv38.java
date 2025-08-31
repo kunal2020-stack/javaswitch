@@ -1,4 +1,4 @@
-package jswitch;
+package jswitchsrc;
 
 class Mobiles{
 	String brand;

@@ -1,4 +1,4 @@
-package jswitch;
+package jswitchsrc;
 
 class Mobile{
 //	the below mentioned variable are called instance variable and it is for every instance of the class i.e. every object of the class.
